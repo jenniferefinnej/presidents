@@ -1,0 +1,17 @@
+*{
+	color: white;
+	background-color: navy;
+}
+
+article{
+	background-color: #8B0000;
+	width: 30%;
+}
+
+p{
+	text-align: center;
+}
+header{
+	text-align: center;
+}
+
